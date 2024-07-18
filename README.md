@@ -1,3 +1,5 @@
+<img width="465" alt="pace-calculator" src="https://github.com/user-attachments/assets/81cdb0ed-3abd-479a-b031-d9d04edde82a">
+
 **About This Tool**
 Pace Calculator is designed to help athletes and fitness enthusiasts accurately calculate their pace and total time for swimming, cycling, and running activities. It can be used to plan training sessions, races, or track progress over time.
 
